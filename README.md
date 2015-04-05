@@ -3,6 +3,7 @@ This repo will contain two types of items:
 
 1.	Dotfiles which can be symlinked in production
 2.	Customized configuration files (think nginx config, or pelican config files). Obviously these will need to be:
+
 - censored for sensitive informaiton (passwords, etc.)
 - updateable on new installations (changes to default config should be highlighted/easily-identifable
 
