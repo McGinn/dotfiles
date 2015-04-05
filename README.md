@@ -22,8 +22,8 @@ This repo will contain two types of items:
 
 ##<a name="Zsh">Zsh</a>##
 - Install ohmyzsh via:
-'''
+```
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
-'''
+```
 - Currently using the default ohmyzsh .vimrc file
 - I could probably add a couple of alises and plugins in the future
