@@ -20,6 +20,6 @@ This repo will contain two types of items:
         - python-mode
 - ipython
 
-#Zsh#
+###Zsh###
 - Currently using the default ohmyzsh .vimrc file
 - I could probably add a couple of alises and plugins in the future
