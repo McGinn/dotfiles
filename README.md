@@ -16,4 +16,10 @@ This repo will contain two types of items:
     - virtualenv (for python 3)
 - vim
     - vundle
+        - vim-markdown
+        - python-mode
 - ipython
+
+#Zsh#
+- Currently using the default ohmyzsh .vimrc file
+- I could probably add a couple of alises and plugins in the future
