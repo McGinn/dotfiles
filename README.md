@@ -1,4 +1,5 @@
-#Dotfiles (and general setup options)#
+Dotfiles (and general setup options)
+====================================
 This repo will contain two types of items:
 
 1. Dotfiles which can be symlinked in production
@@ -6,7 +7,8 @@ This repo will contain two types of items:
     - Censored for sensitive informaiton (passwords, etc.)
     - Updateable on new installations (changes to default config should be highlighted/easily-identifable
 
-##Installed Software/Packages##
+Installed Software/Packages
+---------------------------
 - [Zsh](#Zsh)
     - OhMyZsh
 - Nginx
@@ -22,7 +24,7 @@ This repo will contain two types of items:
 
 ##Zsh##
 - Install ohmyzsh via:
-```
+```zsh
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 - Currently using the default ohmyzsh .vimrc file
