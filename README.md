@@ -7,7 +7,7 @@ This repo will contain two types of items:
     - Updateable on new installations (changes to default config should be highlighted/easily-identifable
 
 ##Installed Software/Packages##
-- [Zsh](https://github.com/McGinn/dotfiles#Zsh)
+- [Zsh](#Zsh)
     - OhMyZsh
 - Nginx
 - Pelican
@@ -20,7 +20,7 @@ This repo will contain two types of items:
         - python-mode
 - ipython
 
-##<a name="Zsh">Zsh</a>##
+##Zsh##
 - Install ohmyzsh via:
 ```
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
