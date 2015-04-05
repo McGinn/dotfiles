@@ -7,7 +7,7 @@ This repo will contain two types of items:
     - Updateable on new installations (changes to default config should be highlighted/easily-identifable
 
 ##Installed Software/Packages##
-- [Zsh](https://github.com/mcginn/dotfiles#Zsh)
+- [Zsh](https://github.com/McGinn/dotfiles#Zsh)
     - OhMyZsh
 - Nginx
 - Pelican
@@ -22,6 +22,6 @@ This repo will contain two types of items:
 
 ##<a name="Zsh">Zsh</a>##
 - Install ohmyzsh via:
-> curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+    curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 - Currently using the default ohmyzsh .vimrc file
 - I could probably add a couple of alises and plugins in the future
