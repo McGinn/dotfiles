@@ -9,18 +9,18 @@ This repo will contain two types of items:
 
 Installed Software/Packages
 ---------------------------
-- [Zsh](#Zsh)
+- [Zsh](#zsh)
     - OhMyZsh
-- [Nginx](#Nginx)
-- [Pelican](#Pelican)
+- [Nginx](#nginx)
+- [Pelican](#pelican)
     - Elegent theme for Pelican
-- [Python 3](#Python)
+- [Python 3](#python)
     - virtualenv (for python 3)
-- [Vim](#Vim)
+- [Vim](#vim)
     - vundle
         - vim-markdown
         - python-mode
-- [iPython](#iPython)
+- [iPython](#ipython)
 
 ##Zsh##
 - Install ohmyzsh via:
