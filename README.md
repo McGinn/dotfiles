@@ -7,7 +7,7 @@ This repo will contain two types of items:
     - Updateable on new installations (changes to default config should be highlighted/easily-identifable
 
 ##Installed Software/Packages##
-- Zsh
+- <a name="Zsh">Zsh</a>
     - OhMyZsh
 - Nginx
 - Pelican
@@ -20,6 +20,6 @@ This repo will contain two types of items:
         - python-mode
 - ipython
 
-###Zsh###
+##[Zsh](Zsh)##
 - Currently using the default ohmyzsh .vimrc file
 - I could probably add a couple of alises and plugins in the future
