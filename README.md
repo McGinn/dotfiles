@@ -7,7 +7,7 @@ This repo will contain two types of items:
     - Censored for sensitive informaiton (passwords, etc.)
     - Updateable on new installations (changes to default config should be highlighted/easily-identifable
 
-I've attempted to order these logically by order of installation.
+I've attempted to order these logically by order of installation. Maybe someday I'll figure out how to write a script to symlink all of these on whatever OS I'm using.
 
 Installed Software/Packages
 ---------------------------
@@ -42,6 +42,7 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 
 ##Nginx##
 Currently I run three distinct nginx config files:
+
 1. iPython
 2. Pelican blog
 3. Shellinabox
